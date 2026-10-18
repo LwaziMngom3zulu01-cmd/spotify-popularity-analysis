@@ -3,7 +3,8 @@
 An analysis of 114,000 Spotify tracks using **SQL** and **Power BI** to find out what songs have in common when they are popular.
 
 
-<img width="725" height="418" alt="screenshot of dashboard" src="https://github.com/user-attachments/assets/cb5548cd-fe12-45d2-8dcc-81b7724515ae" />
+<img width="725" height="421" alt="image" src="https://github.com/user-attachments/assets/9d119cea-625a-425e-aa4b-ed5371301643" />
+
 
 
 ## Questions I wanted to answer
