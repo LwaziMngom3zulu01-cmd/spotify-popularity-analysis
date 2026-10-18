@@ -2,7 +2,7 @@
 
 An analysis of 114,000 Spotify tracks using **SQL** and **Power BI** to find out what songs have in common when they are popular.
 
-![Dashboard](dashboard.png)
+![Dashboard](screenshot of dashboard.png)
 
 ## Questions I wanted to answer
 
